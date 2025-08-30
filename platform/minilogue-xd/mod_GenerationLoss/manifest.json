@@ -1,0 +1,8 @@
+{
+  "api": "1.1-0",
+  "module": "modfx",
+  "name": "GenerationLoss",
+  "version": "0.1.0",
+  "author": "Paul + ChatGPT",
+  "device": "minilogue-xd"
+}
